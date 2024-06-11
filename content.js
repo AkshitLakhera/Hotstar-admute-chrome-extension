@@ -17,12 +17,15 @@ function isAdPlaying() {
 }
 
 // Check periodically if an ad is playing
-setInterval(() => {
+function checkAds() {
   if (isAdPlaying()) {
-      setMute(true);  
+      setMute(true);
       console.log('Ad is playing, muting video');
   } else {
       setMute(false);
       console.log('Ad is not playing, unmuting video');
   }
-}, 1000); 
+  requestAnimationFrame(checkAds);
+}
+
+requestAnimationFrame(checkAds);
