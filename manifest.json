@@ -3,7 +3,7 @@
   "name": "Ad Mute for Hotstar",
   "version": "1.0",
   "description": "Mutes the audio during ads on Hotstar.",
-  "permissions": ["activeTab", "webNavigation"],
+  "permissions": ["activeTab", "webNavigation", "scripting"],
   "background": {
     "service_worker": "background.js"
   },
