@@ -1,6 +1,7 @@
 # Ad Mute for Hotstar
 
 This Chrome extension mutes audio during ads on Hotstar, providing a seamless viewing experience for users.
+
 **Disclaimer**: This extension is created for practice purposes and is not intended to cause any disruptions or issues with Hotstar or any other website. It should be used responsibly and in accordance with the terms of service of the websites it interacts with.
 
 ## Installation
