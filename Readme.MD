@@ -42,4 +42,5 @@ Once the extension is installed, follow these steps to use it:
 
 ## Feedback and Support
 
+
 If you encounter any problems or have suggestions for improvements, please [create an issue] on GitHub.
