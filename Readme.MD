@@ -21,7 +21,8 @@ To use this extension, follow these steps:
 3. **Verify Installation**:
    - The extension icon ![Extension Icon](icon.png) should appear in the Chrome toolbar.
 
-## Usage
+
+## How  to use 
 
 Once the extension is installed, follow these steps to use it:
 
